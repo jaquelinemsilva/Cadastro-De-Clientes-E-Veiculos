@@ -15,7 +15,7 @@ Esse projeto em Java tem como objetivo realizar o cadastro de clientes e veícul
 
 - **Modelo**: o modelo não pode ficar em branco.
 - **Marca**: não pode ter caracteres numéricos.
-- **Placa**: aceita os dois formatos válidos no brasil: **Antigo** - `AAA-1234` ou **Mercosul** - `AAA1B22`
+- **Placa**: aceita os dois formatos válidos no brasil: **Antigo** - `AAA-1234` ou **Mercosul** - `AAA1B22`.
 
 ## Exceções:
 
